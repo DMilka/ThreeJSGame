@@ -1,0 +1,7 @@
+.game-screen {
+   z-index: 5;
+}
+
+.game {
+   z-index: 10;
+}
